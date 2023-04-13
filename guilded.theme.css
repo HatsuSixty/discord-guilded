@@ -1,0 +1,37 @@
+/**
+ * @name Guilded
+ * @description Guilded color scheme for Discord. (Credits: DevilBro for creating DiscordRecolor)
+ * @author RobertoSixtyOne
+ * @version 1.0.0
+ * @authorId 948968646594658334
+ * @invite p9TgRekGT4
+ * @source https://github.com/robertosixty1/discord-guilded
+ * @BDEditor Guilded
+*/
+
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+
+:root {
+  --accentcolor: 238,190,15;
+  --accentcolor2: 255,115,250;
+  --linkcolor: 0,176,244;
+  --mentioncolor: 250,166,26;
+  --textbrightest: 255,255,255;
+  --textbrighter: 222,222,222;
+  --textbright: 185,185,185;
+  --textdark: 140,140,140;
+  --textdarker: 115,115,115;
+  --textdarkest: 80,80,80;
+  --font: gg sans;
+  --backgroundaccent: 66,67,74;
+  --backgroundprimary: 55,57,67;
+  --backgroundsecondary: 41,43,50;
+  --backgroundsecondaryalt: 25,27,31;
+  --backgroundtertiary: 30,32,37;
+  --backgroundfloating: 41,43,50;
+  --settingsicons: 1;
+}
+
+/* Any custom CSS below here */
+
+
